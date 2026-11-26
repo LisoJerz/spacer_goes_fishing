@@ -27,5 +27,5 @@
 </div>
 
 ## Related Projects
-- [spacer_goes_lofting](https://github.com/LisoJerz/spacer_goes_lofting) — ship design editor for **SPACER GOES FISHING**.
+- [spacer_goes_lofting](https://github.com/LisoJerz/spacer_goes_lofting) — ship design editor for **SPACER GOES FISHING** *(WIP)*.
 - [SpacersVisual](https://github.com/LisoJerz/SpacersVisual) — custom pixel font used across the project.
